@@ -1,0 +1,19 @@
+{
+    "id": "tbf-carousel-autoupdate",
+    "title": "TBF Carousel Autoupdater",
+    "description": "A quick hacked together module which leverages hooks to automatically update token images for combat carousel.",
+    "authors": [
+      {
+      "name": "LunarEcklipse"
+      }
+      ],
+    "version": "1.0.0",
+    "compatibility": {
+      "minimum": "10",
+      "verified": "11"
+    },
+    "scripts":
+    [
+      "scripts/tbf-carousel-autoupdate.js"
+    ]
+  }
