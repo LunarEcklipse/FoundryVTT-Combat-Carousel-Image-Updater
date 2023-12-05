@@ -1,0 +1,3 @@
+This branch represents the very first version of this module. It was built in a day for test if such a thing was possible; making images in the Combat Carousel module change on their own based on the HP stat of the represented actor.
+
+This is by all means not a good solution. It only works with Simple Worldbuilding System as it uses the sheet itself to track the files for new actors, and requires very specific file naming conventions. This is because I was very new to the FoundryVTT module API at the time and wanted to create a quick solution to demonstrate to a friend interested in the idea whether or not it would be possible. A more robust solution is in the works, and this branch is merely left as a historical artifact.
